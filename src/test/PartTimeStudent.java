@@ -10,5 +10,6 @@ package test;
  */
 public class PartTimeStudent {
     private int nofhrs;
-    
+    private String prgname;
 }
+
